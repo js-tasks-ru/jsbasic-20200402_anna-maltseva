@@ -15,11 +15,8 @@ function isValid(name) {
     }
   
     return true;
-  }	}
+  }	
   
-  
-}
-
 function sayHello() {
   const userName = prompt('Введите ваше имя');
 
