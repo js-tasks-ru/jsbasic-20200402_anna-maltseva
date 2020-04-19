@@ -10,7 +10,4 @@ function checkSpam(str){
    
 }
 
-console.log( checkSpam('1XbeT now') );
-console.log( checkSpam('free xxxxx') );
-console.log( checkSpam('innocent rabbit') );
 
