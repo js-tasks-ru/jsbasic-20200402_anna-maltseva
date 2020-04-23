@@ -4,6 +4,9 @@
  * @returns {Number}
  */
 function sumSalary(salaries) {
+  
+ let sumOfSalaries = 0;
+
   let sumOfSalaries = 0;
 
   for (let key in salaries) {
